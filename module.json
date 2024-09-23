@@ -1,0 +1,42 @@
+{
+  "id": "skull-rock-island",
+  "title": "Skull Rock Island",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "12"
+  },
+  "relationships": {
+    "recommends": [
+      {
+        "id": "pirate-borg-premium",
+        "type": "module",
+        "compatibility": {}
+      }
+    ]
+  },
+  "description": "A one-shot island treasure map adventure for Pirate Borg",
+  "authors": [
+    {
+      "name": "Andrew Duvall",
+      "email": "andy@sketchyvanrpg.com",
+      "url": "https://sketchyvanrpg.com",
+      "discord": "duvelmandice",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "skull-rock-adventure",
+      "label": "Skull Rock Adventure",
+      "path": "packs/skull-rock-adventure",
+      "type": "Adventure",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "system": "pirateborg",
+      "flags": {}
+    }
+  ]
+}
