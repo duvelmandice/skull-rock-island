@@ -40,6 +40,6 @@
     }
   ],
   "url": "https://github.com/duvelmandice/skull-rock-island",
-  "download": [],
-  "manifest": []
+  "download": "https://github.com/duvelmandice/skull-rock-island/releases/download/v1.0.0/skull-rock-island.zip",
+  "manifest": "https://github.com/duvelmandice/skull-rock-island/releases/download/v1.0.0/module.json"
 }
